@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1745866004 source:d:\c++\hsik\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"hearthstone_plates.h"
+
+1745865991 d:\c++\hsik\hearthstone_plates.h
+	<memory>
+	<vector>
+	<iostream>
+
